@@ -23,6 +23,9 @@ trinityQUERY is a chatbot framework that aims to incorporate the principles of c
 
 - **Customizability**: The roles of the chatbots can be customized, allowing for a wide range of evaluation scenarios. This feature can assist in assessing how well a chatbot performs in different roles or contexts.
 
+![KkmGiPAS](https://github.com/EveryOneIsGross/trinityQUERY/assets/23621140/869b11ad-24d0-4be4-8070-8871747ea421)
+
+
 ## Installation
 
 1. Clone this repository.
