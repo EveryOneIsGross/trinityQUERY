@@ -2,7 +2,7 @@
 
 ## Overview
 
-trinityQUERY is a chatbot framework that aims to incorporate the principles of causality into chatbot interactions. By considering cause-effect relationships in user inputs and chatbot responses, TrinityQUERY strives to generate more relevant and contextually appropriate responses. With its unique 'v', 'confounder', and 'chain' structures, the system aims to facilitate richer responses. While still a work in progress, trinityQUERY seeks to contribute to the advancement of chatbot technology by exploring the potential of causality in improving chatbot performance. In essence, the term "trinity" encapsulates the triadic nature of the system's design and its three-pronged approach to chatbot interaction.
+trinityQUERY is a chatbot framework that aims to incorporate the principles of causality into chatbot interactions. By considering cause-effect relationships in user inputs and chatbot responses, TrinityQUERY strives to generate more relevant and contextually appropriate responses. With its unique 'v', 'confounder', and 'chain' structures, the system aims to facilitate richer responses. In essence, the term "trinity" encapsulates the triadic nature of the system's design and its three-pronged approach to chatbot interaction.
 
 ![DreamShaper_v6_trinity_from_the_matrix_as_a_pencil_sketch_show_0](https://github.com/EveryOneIsGross/trinityQUERY/assets/23621140/9b3e44d8-62d6-4641-8da7-dc0220625407)
 
