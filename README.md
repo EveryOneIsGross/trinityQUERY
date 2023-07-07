@@ -4,6 +4,9 @@
 
 Understanding causality is crucial in machine learning as it helps in modeling problems more effectively. While predictive accuracy is important, it doesn't always provide insights into the underlying causal relationships that govern the data. By understanding these relationships, we can create interactions that might explain why those outcomes occur. With trinityQUERY, the concept of causality is subtly embedded within the structure of the chatbot interactions. The 'v', 'confounder', and 'chain' structures each represent different causal relationships. This framework could be metaphorically linked to the concepts of past, present, and future; hence the name "trinityQUERY". In essence, the term "trinity" encapsulates the triadic nature of the system's design and its three-pronged approach to chatbot interaction.
 
+![DreamShaper_v6_trinity_from_the_matrix_as_a_pencil_sketch_show_0](https://github.com/EveryOneIsGross/trinityQUERY/assets/23621140/9b3e44d8-62d6-4641-8da7-dc0220625407)
+
+
 ## Features
 
 - **Multiple Structures**: The system allows for the implementation of chatbots in different structures - 'v', 'confounder', and 'chain'. This feature enables the evaluation and comparison of chatbot performance in various scenarios and configurations.
